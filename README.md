@@ -1,4 +1,5 @@
 # vue-workspace
+Repository to use style guidist to build standalone Vue applications
 
 ## Project setup
 ```
@@ -7,12 +8,7 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+yarn styleguide
 ```
 
 ### Lints and fixes files
@@ -20,5 +16,3 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
